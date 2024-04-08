@@ -1,0 +1,60 @@
+loop 
+========================
+it makes coding simple /easy
+you will write command once and that command will run n number 
+of times
+* n can be finite a well as infinite
+* ypu will have to define a loop
+* you can define a loop one if the following keyword
+* you can define loop by using one of the following 
+   keyword
+1 for 
+2 while
+3 do and while
+
+
+these loops are known as loop constructs
+
+1) when define loops using for?
+ when n is finite  and fixed 
+
+2) when define loops using while?
+ when n is finite or infinite 
+
+3) when define loops using do and while?
+ the only defrence between do while is one time body 
+    will  executed then condition  is checked
+
+
+
+Syntex of for loops
+=========================================
+for (int ctr =0;ctr<10;ctr++){
+    // command 
+}
+=========================================
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
