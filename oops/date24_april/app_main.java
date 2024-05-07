@@ -6,7 +6,7 @@ public class app_main {
     public static void main(String[] args) {
 
        // declaring reference  variable 
-        oops1 p1 , p2 ,p3;
+        oops1 p1 , p2 , p3 ;
         
            // command to crate object 
         p1 = new oops1(101,"mouse","logitc",1500);
@@ -15,6 +15,9 @@ public class app_main {
 
        //command to call method of oops class
         p2.showDetails();
+        p1.set_price(900);
+        System.out.println("after changing the price ");
+        p1.showDetails();
 
         
     }

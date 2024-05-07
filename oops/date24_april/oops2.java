@@ -14,6 +14,7 @@ public class oops2 {
     ///defining getter 
     public int getX(){
         return this.x;
+        
     }
 
     public int getY(){
