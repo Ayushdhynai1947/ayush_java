@@ -10,8 +10,8 @@ public class App {
 		AA o2=new AA(40);//Parameterized constructor will be called
 		AA o3=new AA();//Non-parameterized constructor will be called
 		
-		o1.method1();
-		AA.method2();
+		o1.method1();    //non static method is called 
+		AA.method2();   // static method is call by class name 
 	}
 }
 
